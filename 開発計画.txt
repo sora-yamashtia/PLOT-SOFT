@@ -1,0 +1,11 @@
+0.	column選択をspinboxにする.end
+1.	columnの変更に伴い，contour value を適当に更新する．end
+		contour value について min=max となる場合にエラー発生.end
+		contour value について入力が順番に増加しない場合にエラー発生.
+	やっぱ auto button をつかおうかな
+2.	2D contour mode におけるcontour value の個数を変更可能にする．
+3.	2D contour mode におけるcontour の塗りつぶしの選択肢をおく.
+		^ 選択肢増えてめんどくなる？
+4.	2D conrour mode におけるline colors を自動的に異なる色にする.
+5.	general のレイアウトをきれいにする
+6.	スクロール可能にする
